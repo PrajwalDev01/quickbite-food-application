@@ -1,4 +1,10 @@
-# QuickBite 🍔
+# 🍔 QuickBite
+
+![Project Stage](https://img.shields.io/badge/Project%20Stage-Completed-brightgreen?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-MVC%20Pattern-blue?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Java%20EE%20%2F%20JSP%20%2F%20Servlets-orange?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge)
+![Web Server](https://img.shields.io/badge/Web%20Server-Apache%20Tomcat%2010.x-red?style=for-the-badge)
 
 QuickBite is a dynamic, full-stack online food ordering and delivery web application built using Java Jakarta EE (Servlets & JSP) and MySQL database. It supports secure user registration, restaurant browsing, interactive cart operations, checkout processing, and real-time-simulated order history tracking.
 
