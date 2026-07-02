@@ -1,0 +1,19 @@
+# Eclipse metadata
+.metadata/
+.settings/
+.recommenders/
+/bin/
+/build/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Server files
+Servers/
+.recommenders/
+tmp/
+temp-testng-customsuite.xml
+testng-failed.xml
